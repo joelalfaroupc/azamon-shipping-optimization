@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+.ipynb_checkpoints/
+*.pyc
+*.pth
+*.h5
+*.keras
